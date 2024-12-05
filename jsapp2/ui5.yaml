@@ -23,4 +23,4 @@ server:
       afterMiddleware: compression
       mountPath: /jsapp1
       configuration:
-        rootPath: "/home/user/projects/jsapp1/webapp"
+        rootPath: "../jsapp1/webapp"
